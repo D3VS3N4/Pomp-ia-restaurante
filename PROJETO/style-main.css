@@ -1,0 +1,17 @@
+.cab{
+    background-color: rgb(33, 31, 32);
+    display:flex;
+    justify-content: center;
+}
+.logo-main{
+    width: 10%;
+}
+main {
+    background:rgb(0,0,0,1) url(inprin.png);
+    background-size: cover;
+    background-blend-mode: darken;
+}
+.imain{
+    width: 100%;
+    opacity: 0.2;
+}
